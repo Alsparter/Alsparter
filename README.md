@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alsparter
-- 👀 I’m interested in javascript 
-- 🌱 I’m currently learning js 
+- 👀 I’m interested in machine learning and deep learning
+- 🌱 I’m currently learning deep learning , GANs and dsa a little bit 
 - 💞️ I’m looking to collaborate on  idk just a learner here
 - 📫 How to reach me ....
 
