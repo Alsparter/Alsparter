@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Alsparter
-- 👀 I’m interested in machine learning and deep learning
-- 🌱 I’m currently learning deep learning , GANs and dsa a little bit 
-- 💞️ I’m looking to collaborate on  idk just a learner here
-- 📫 How to reach me ....
+- Currently learned about Data Analysis Techniques. 
+- Trying to get the Paid Intership ryt noow
+- Getting Updates on the lyf stay tuned  
 
 <!---
 Alsparter/Alsparter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
